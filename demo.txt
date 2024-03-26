@@ -1,2 +1,5 @@
 welcome
 my 1st demo
+it will go slow
+code is ok
+all code is available
